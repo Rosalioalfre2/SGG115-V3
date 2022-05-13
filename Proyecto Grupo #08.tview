@@ -7,69 +7,69 @@
 
   <te_da:DataSourceList xmlns:te_common="http://www.terralib.org/schemas/common">
     <te_da:DataSource access_driver="OGR" id="00e44636-3d87-4c9d-8f40-7474e50915f9" type="OGR">
-      <te_da:Title>C:/Users/rosal/OneDrive/Desktop/Nueva carpeta/SGG115-V3/Capa linea/Carreteras/carreteras.shp</te_da:Title>
+      <te_da:Title>Capa linea/Carreteras/carreteras.shp</te_da:Title>
       <te_da:Description></te_da:Description>
-      <te_da:URI>file%3A%2F%2FC%3A%2FUsers%2Frosal%2FDownloads%2FProyecto%2FSGG115-V3%2FCapa%2520linea%2FCarreteras%2Fcarreteras.shp</te_da:URI>
+      <te_da:URI>file%3A%2F%2FCapa%2520linea%2FCarreteras%2Fcarreteras.shp</te_da:URI>
     </te_da:DataSource>
     <te_da:DataSource access_driver="GDAL" id="22680314-bd6c-4a9d-ae2e-2ea369bd9372" type="GDAL">
       <te_da:Title>ActividadEconomica</te_da:Title>
       <te_da:Description>A single raster file</te_da:Description>
-      <te_da:URI>file%3A%2F%2FC%3A%2FUsers%2Frosal%2FDownloads%2FProyecto%2FSGG115-V3%2FCapa%2520raster%2FCapa%2520raster%2FActividadEconomica.tif</te_da:URI>
+      <te_da:URI>file%3A%2F%2FCapa%2520raster%2FCapa%2520raster%2FActividadEconomica.tif</te_da:URI>
     </te_da:DataSource>
     <te_da:DataSource access_driver="GDAL" id="26cf1ff6-3dc2-45b1-8c35-021c8f93550e" type="GDAL">
       <te_da:Title>DensidadPoblacional</te_da:Title>
       <te_da:Description>A single raster file</te_da:Description>
-      <te_da:URI>file%3A%2F%2FC%3A%2FUsers%2Frosal%2FDownloads%2FProyecto%2FSGG115-V3%2FCapa%2520raster%2FCapa%2520raster%2FDensidadPoblacional.tif</te_da:URI>
+      <te_da:URI>file%3A%2F%2FCapa%2520raster%2FCapa%2520raster%2FDensidadPoblacional.tif</te_da:URI>
     </te_da:DataSource>
     <te_da:DataSource access_driver="OGR" id="29c78835-72b0-4b3e-88b9-e2ca5524d8aa" type="OGR">
       <te_da:Title>SGG115-V3/Capa punto/Universidades/universidades.shp</te_da:Title>
       <te_da:Description></te_da:Description>
-      <te_da:URI>file%3A%2F%2FC%3A%2FUsers%2Frosal%2FDownloads%2FProyecto%2FSGG115-V3%2FCapa%2520punto%2FUniversidades%2Funiversidades.shp</te_da:URI>
+      <te_da:URI>file%3A%2F%2FCapa%2520punto%2FUniversidades%2Funiversidades.shp</te_da:URI>
     </te_da:DataSource>
     <te_da:DataSource access_driver="OGR" id="65c9984f-f8e9-4a19-a3c7-6559375fa824" type="OGR">
-      <te_da:Title>C:/Users/rosal/OneDrive/Desktop/Nueva carpeta/SGG115-V3/Capa punto/Bachilleratos/bachilleratos.shp</te_da:Title>
+      <te_da:Title>Capa punto/Bachilleratos/bachilleratos.shp</te_da:Title>
       <te_da:Description></te_da:Description>
-      <te_da:URI>file%3A%2F%2FC%3A%2FUsers%2Frosal%2FDownloads%2FProyecto%2FSGG115-V3%2FCapa%2520punto%2FBachilleratos%2Fbachilleratos.shp</te_da:URI>
+      <te_da:URI>file%3A%2F%2FCapa%2520punto%2FBachilleratos%2Fbachilleratos.shp</te_da:URI>
     </te_da:DataSource>
     <te_da:DataSource access_driver="OGR" id="779e52b0-9105-4c44-a18d-7b20012e00e4" type="OGR">
-      <te_da:Title>C:/Users/rosal/OneDrive/Desktop/Nueva carpeta/SGG115-V3/Capa punto/Centro Escolar/centros_escolares.shp</te_da:Title>
+      <te_da:Title>Capa punto/Centro Escolar/centros_escolares.shp</te_da:Title>
       <te_da:Description></te_da:Description>
-      <te_da:URI>file%3A%2F%2FC%3A%2FUsers%2Frosal%2FDownloads%2FProyecto%2FSGG115-V3%2FCapa%2520punto%2FCentro%2520Escolar%2Fcentros_escolares.shp</te_da:URI>
+      <te_da:URI>file%3A%2F%2FCapa%2520punto%2FCentro%2520Escolar%2Fcentros_escolares.shp</te_da:URI>
     </te_da:DataSource>
     <te_da:DataSource access_driver="OGR" id="7fd47cfb-7cca-4617-a7e0-9bbcc6108735" type="OGR">
-      <te_da:Title>C:/Users/rosal/OneDrive/Desktop/Nueva carpeta/SGG115-V3/Capa poligono/Municipio/municipio.shp</te_da:Title>
+      <te_da:Title>Capa poligono/Municipio/municipio.shp</te_da:Title>
       <te_da:Description></te_da:Description>
-      <te_da:URI>file%3A%2F%2FC%3A%2FUsers%2Frosal%2FDownloads%2FProyecto%2FSGG115-V3%2FCapa%2520poligono%2FMunicipio%2Fmunicipio.shp</te_da:URI>
+      <te_da:URI>file%3A%2F%2FCapa%2520poligono%2FMunicipio%2Fmunicipio.shp</te_da:URI>
     </te_da:DataSource>
     <te_da:DataSource access_driver="OGR" id="953c50e7-492d-4f89-b442-f370a2ce6f6e" type="OGR">
-      <te_da:Title>C:/Users/rosal/OneDrive/Desktop/Nueva carpeta/SGG115-V3/Capa punto/Parvularia/parvularia.shp</te_da:Title>
+      <te_da:Title>Capa punto/Parvularia/parvularia.shp</te_da:Title>
       <te_da:Description></te_da:Description>
-      <te_da:URI>file%3A%2F%2FC%3A%2FUsers%2Frosal%2FDownloads%2FProyecto%2FSGG115-V3%2FCapa%2520punto%2FParvularia%2Fparvularia.shp</te_da:URI>
+      <te_da:URI>file%3A%2F%2FCapa%2520punto%2FParvularia%2Fparvularia.shp</te_da:URI>
     </te_da:DataSource>
     <te_da:DataSource access_driver="OGR" id="acb38cf1-4943-440f-b7b5-d0fb296b6e89" type="OGR">
-      <te_da:Title>C:/Users/rosal/OneDrive/Desktop/Nueva carpeta/SGG115-V3/Capa punto/Complejo Educativo/complejo_educativo.shp</te_da:Title>
+      <te_da:Title>SGG115-V3/Capa punto/Complejo Educativo/complejo_educativo.shp</te_da:Title>
       <te_da:Description></te_da:Description>
-      <te_da:URI>file%3A%2F%2FC%3A%2FUsers%2Frosal%2FDownloads%2FProyecto%2FSGG115-V3%2FCapa%2520punto%2FComplejo%2520Educativo%2Fcomplejo_educativo.shp</te_da:URI>
+      <te_da:URI>file%3A%2F%2FCapa%2520punto%2FComplejo%2520Educativo%2Fcomplejo_educativo.shp</te_da:URI>
     </te_da:DataSource>
     <te_da:DataSource access_driver="OGR" id="bb268179-4217-45c0-8ce7-e46a1183cbc2" type="OGR">
-      <te_da:Title>C:/Users/rosal/OneDrive/Desktop/Nueva carpeta/SGG115-V3/Capa poligono/Departamento/deparatamento.shp</te_da:Title>
+      <te_da:Title>Capa poligono/Departamento/deparatamento.shp</te_da:Title>
       <te_da:Description></te_da:Description>
-      <te_da:URI>file%3A%2F%2FC%3A%2FUsers%2Frosal%2FDownloads%2FProyecto%2FSGG115-V3%2FCapa%2520poligono%2FDepartamento%2Fdeparatamento.shp</te_da:URI>
+      <te_da:URI>file%3A%2F%2FCapa%2520poligono%2FDepartamento%2Fdeparatamento.shp</te_da:URI>
     </te_da:DataSource>
     <te_da:DataSource access_driver="GDAL" id="cd596ed0-055f-473e-b853-3a24396c0875" type="GDAL">
-      <te_da:Title>Zona_Rural</te_da:Title>
+      <te_da:Title>Capa zona rural/Zona_Rural.tif</te_da:Title>
       <te_da:Description>A single raster file</te_da:Description>
-      <te_da:URI>file%3A%2F%2FC%3A%2FUsers%2Frosal%2FDownloads%2FProyecto%2FSGG115-V3%2FCapa%2520raster%2FCapa%2520zona%2520rural%2FZona_Rural.tif</te_da:URI>
+      <te_da:URI>file%3A%2F%2FCapa%2520Raster%2FCapa%2520zona%2520rural%2FZona_Rural.tif</te_da:URI>
     </te_da:DataSource>
     <te_da:DataSource access_driver="GDAL" id="eaf5c647-a5ab-4b9f-9b0e-24dbf03d7f6f" type="GDAL">
       <te_da:Title>Capa Poblacion municipal</te_da:Title>
       <te_da:Description>A single raster file</te_da:Description>
-      <te_da:URI>file%3A%2F%2FC%3A%2FUsers%2Frosal%2FDownloads%2FProyecto%2FSGG115-V3%2FCapa%2520raster%2FCapa%2520poblacion%2Fcapa_poblacion_municipal.tif</te_da:URI>
+      <te_da:URI>file%3A%2F%2FCapa%2520raster%2FCapa%2520poblacion%2Fcapa_poblacion_municipal.tif</te_da:URI>
     </te_da:DataSource>
     <te_da:DataSource access_driver="OGR" id="eea6f04f-38b4-4c3e-9feb-c442534b7914" type="OGR">
-      <te_da:Title>C:/Users/rosal/OneDrive/Desktop/Nueva carpeta/SGG115-V3/Capa poligono/Canton/cantones.shp</te_da:Title>
+      <te_da:Title>Capa poligono/Canton/cantones.shp</te_da:Title>
       <te_da:Description></te_da:Description>
-      <te_da:URI>file%3A%2F%2FC%3A%2FUsers%2Frosal%2FDownloads%2FProyecto%2FSGG115-V3%2FCapa%2520poligono%2FCanton%2Fcantones.shp</te_da:URI>
+      <te_da:URI>file%3A%2F%2FCapa%2520poligono%2FCanton%2Fcantones.shp</te_da:URI>
     </te_da:DataSource>
   </te_da:DataSourceList>
 
@@ -896,7 +896,7 @@
     </te_map:DataSetLayer>
     <te_map:DataSetLayer id="5eb6cb03-95f9-40ee-aa9f-a8003c2da74a">
       <te_map:Title>deparatamento</te_map:Title>
-      <te_map:Visible>NOT_VISIBLE</te_map:Visible>
+      <te_map:Visible>VISIBLE</te_map:Visible>
       <te_map:Encoding>UTF-8</te_map:Encoding>
       <te_map:DataSetName>deparatamento</te_map:DataSetName>
       <te_map:DataSourceId>bb268179-4217-45c0-8ce7-e46a1183cbc2</te_map:DataSourceId>
@@ -1035,7 +1035,7 @@
     </te_map:DataSetLayer>
     <te_map:DataSetLayer id="a24b0102-deed-4842-9320-eef4f3a67143">
       <te_map:Title>capa_poblacion_municipal.tif</te_map:Title>
-      <te_map:Visible>VISIBLE</te_map:Visible>
+      <te_map:Visible>NOT_VISIBLE</te_map:Visible>
       <te_map:Encoding>UTF-8</te_map:Encoding>
       <te_map:DataSetName>capa_poblacion_municipal.tif</te_map:DataSetName>
       <te_map:DataSourceId>eaf5c647-a5ab-4b9f-9b0e-24dbf03d7f6f</te_map:DataSourceId>
